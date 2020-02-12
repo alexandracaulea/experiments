@@ -1,0 +1,153 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+:root {
+  --bs: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+  background-color: #fefefe;
+  line-height: 1.65;
+  color: #010a43;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 100%;
+  display: block;
+  box-shadow: var(--bs);
+  transition: box-shadow 0.3s ease-in-out;
+  border-style: none;
+}
+img:hover {
+  --bs: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+p {
+  margin: 0;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.15;
+}
+
+h1 {
+  margin: 2.75rem 0 0;
+  font-size: 2.488em;
+}
+
+h2 {
+  margin: 2rem 0 1.05rem;
+  font-size: 1.7em;
+  font-weight: 400;
+}
+
+h3 {
+  font-size: 1.2em;
+  font-weight: 400;
+  margin-bottom: 0.5em;
+}
+
+main {
+  display: block;
+  width: 90vw;
+  margin: 0 auto 1.4rem;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, auto));
+  grid-gap: 1rem;
+}
+.container > li {
+  padding: 0.5rem;
+}
+
+.technologies {
+  margin-top: 1.2rem;
+}
+.technologies .html,
+.technologies .css,
+.technologies .js,
+.technologies .react {
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 1rem;
+  margin-right: 1rem;
+}
+.technologies .html {
+  color: #3c6f9c;
+}
+.technologies .css {
+  color: #b030b0;
+}
+.technologies .js {
+  color: #616f39;
+}
+.technologies .react {
+  color: #bd245f;
+}
+
+.btn {
+  margin-right: 5px;
+  padding: 0.7em 0.8em;
+  opacity: 0.8;
+  color: #1b262c;
+  margin-left: -0.8em;
+  text-decoration: none;
+  background-color: transparent;
+  cursor: pointer;
+  transition: opacity 0.3s ease-out;
+}
+.btn:hover {
+  opacity: 1;
+}
+.btn:focus {
+  outline: 2px dotted currentColor;
+}
+
+section h2 {
+  position: relative;
+  width: fit-content;
+}
+
+section h2:after {
+  content: "";
+  position: absolute;
+  height: 5px;
+  width: 100%;
+  left: 10px;
+  bottom: 1px;
+  background-color: #ffcc00;
+  background-image: linear-gradient(90deg, #ffcc00 0%, #cc0066 100%);
+  display: block;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px, 1px, 1px, 1px);
+  white-space: nowrap;
+}
+
+/*# sourceMappingURL=app.745b800e.css.map */
