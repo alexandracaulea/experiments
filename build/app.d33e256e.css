@@ -109,6 +109,7 @@ ul {
   display: flex;
   flex-direction: column;
 }
+.item-info .figma,
 .item-info .html,
 .item-info .css,
 .item-info .js,
@@ -118,6 +119,9 @@ ul {
   text-transform: uppercase;
   margin-right: 1rem;
   font-weight: bold;
+}
+.item-info .figma {
+  color: #216353;
 }
 .item-info .html {
   color: #3c6f9c;
@@ -147,7 +151,7 @@ ul {
   font-weight: bold;
   letter-spacing: 1px;
   font-size: 0.875rem;
-  border: 2px svar(--clr-purple);
+  border: 2px solid var(--clr-purple);
 }
 .link:hover {
   opacity: 1;
@@ -171,4 +175,4 @@ ul {
   box-shadow: inset 0 0 2px var(--clr-purple);
 }
 
-/*# sourceMappingURL=app.fc488516.css.map */
+/*# sourceMappingURL=app.d33e256e.css.map */

@@ -111,6 +111,7 @@ ul {
   display: flex;
   flex-direction: column;
 
+  .figma,
   .html,
   .css,
   .js,
@@ -120,6 +121,10 @@ ul {
     text-transform: uppercase;
     margin-right: 1rem;
     font-weight: bold;
+  }
+
+  .figma {
+    color: #216353;
   }
 
   .html {
