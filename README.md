@@ -4,13 +4,14 @@ This is the main repository for all of my projects.
 
 ## freeCodeCamp Projects
 
-|  #  | Project Name                                                                                                                                                                             | Live Demo on CodePen                                         |
-| :-: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| 1.  | [Build a Tribute Page](https://github.com/alexandracaulea/freecodecamp-projects/tree/master/Responsive-Web-Design-Projects/Build%20a%20Tribute%20Page)                                   | [Live Demo](https://codepen.io/alexandracaulea/full/MWwgbEv) |
-| 2.  | [Build a Product Landing Page](https://github.com/alexandracaulea/freecodecamp-projects/tree/master/Responsive-Web-Design-Projects/Build%20a%20Product%20Landing%20Page)                 | [Live Demo](https://codepen.io/alexandracaulea/full/QWbObOQ) |
-| 3.  | [Build a Technical Documentation Page](https://github.com/alexandracaulea/freecodecamp-projects/tree/master/Responsive-Web-Design-Projects/Build%20a%20Technical%20Documentation%20Page) | [Live Demo](https://codepen.io/alexandracaulea/full/zYGKdzZ) |
+|  #  | Project Name                                                                                                                                                                                                           | Live Demo on CodePen                                         |
+| :-: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 1.  | [Build a Tribute Page](https://github.com/alexandracaulea/freecodecamp-projects/tree/master/Responsive-Web-Design-Projects/Build%20a%20Tribute%20Page)                                                                 | [Live Demo](https://codepen.io/alexandracaulea/full/MWwgbEv) |
+| 2.  | [Build a Product Landing Page](https://github.com/alexandracaulea/freecodecamp-projects/tree/master/Responsive-Web-Design-Projects/Build%20a%20Product%20Landing%20Page)                                               | [Live Demo](https://codepen.io/alexandracaulea/full/QWbObOQ) |
+| 3.  | [Build a Technical Documentation Page](https://github.com/alexandracaulea/freecodecamp-projects/tree/master/Responsive-Web-Design-Projects/Build%20a%20Technical%20Documentation%20Page)                               | [Live Demo](https://codepen.io/alexandracaulea/full/zYGKdzZ) |
+| 4.  | [Celsius to Fahrenheit Convertor](https://github.com/alexandracaulea/freecodecamp-projects/tree/master/JavaScript-Algorithms-and-Data-Structures-Projects/Basic%20Algorithm%20Scripting/convert-celsius-to-fahrenheit) | [Live Demo](https://codepen.io/alexandracaulea/full/rNVKLor) |
 
-## Intersection Observer API
+## Working with APIs
 
 |  #  | Project Name                                                                                                                              | Live Demo on CodePen                                         |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
