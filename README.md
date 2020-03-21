@@ -17,6 +17,7 @@ This is the main repository for all of my projects.
 | :-: | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | 1.  | [Landing Page concept having fade in elements](https://github.com/alexandracaulea/intersection-observer/tree/master/1.fade-in-elements)   | [Live Demo](https://codepen.io/alexandracaulea/full/mdygyxV) |
 | 2.  | [Accept Terms and Conditions example](https://github.com/alexandracaulea/intersection-observer/tree/master/2.accept-terms-and-conditions) | [Live Demo](https://codepen.io/alexandracaulea/full/VwYOPKM) |
+| 2.  | [Fetching jobs from GitHub Jobs API using axios](https://github.com/alexandracaulea/working-with-apis/tree/master/3.fetching-jobs)        | [Live Demo](https://codepen.io/alexandracaulea/full/VwLBGOj) |
 
 ## UI Elements
 
