@@ -17,7 +17,7 @@ This is the main repository for all of my projects.
 | :-: | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | 1.  | [Landing Page concept having fade in elements](https://github.com/alexandracaulea/intersection-observer/tree/master/1.fade-in-elements)   | [Live Demo](https://codepen.io/alexandracaulea/full/mdygyxV) |
 | 2.  | [Accept Terms and Conditions example](https://github.com/alexandracaulea/intersection-observer/tree/master/2.accept-terms-and-conditions) | [Live Demo](https://codepen.io/alexandracaulea/full/VwYOPKM) |
-| 2.  | [Fetching jobs from GitHub Jobs API using axios](https://github.com/alexandracaulea/working-with-apis/tree/master/3.fetching-jobs)        | [Live Demo](https://codepen.io/alexandracaulea/full/VwLBGOj) |
+| 3.  | [Fetching jobs from GitHub Jobs API using axios](https://github.com/alexandracaulea/working-with-apis/tree/master/3.fetching-jobs)        | [Live Demo](https://codepen.io/alexandracaulea/full/VwLBGOj) |
 
 ## UI Elements
 
@@ -28,12 +28,6 @@ This is the main repository for all of my projects.
 | 3.  | [User profile card](https://github.com/alexandracaulea/ui-elements/tree/master/3.User%20profile%20card)            | [Live Demo](https://codepen.io/alexandracaulea/full/wvBLyqJ) |
 | 4.  | [Pricing Tables](https://github.com/alexandracaulea/ui-elements/tree/master/4.Pricing%20Tables)                    | [Live Demo](https://codepen.io/alexandracaulea/full/xxGVPYd) |
 | 5.  | [Features Section](https://github.com/alexandracaulea/ui-elements/tree/master/5.Features%20section)                | [Live Demo](https://codepen.io/alexandracaulea/full/dyoOJKd) |
-
-## React
-
-|  #  | Project Name                                                                        | Live Demo on GitHub                                                    |
-| :-: | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 1.  | [Random Emoji Generator](https://github.com/alexandracaulea/random-emoji-generator) | [Live Demo](https://alexandracaulea.github.io/random-emoji-generator/) |
 
 ## CSS Grid
 
