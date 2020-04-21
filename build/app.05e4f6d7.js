@@ -121,10 +121,12 @@ parcelRequire = (function (modules, cache, entry, globalName) {
 module.exports = "api-fetch-jobs.d4064126.jpg";
 },{}],"YPXr":[function(require,module,exports) {
 module.exports = "fcc-celsius-to-fahrenheit-convertor.c8868e4f.jpg";
-},{}],"eFgf":[function(require,module,exports) {
-module.exports = "fcc-survey-form.f8768186.jpg";
 },{}],"MmsR":[function(require,module,exports) {
 module.exports = "fcc-product-landing-page.29536750.jpg";
+},{}],"eFgf":[function(require,module,exports) {
+module.exports = "fcc-survey-form.f8768186.jpg";
+},{}],"n1qK":[function(require,module,exports) {
+module.exports = "fcc-technical-documentation-page.16cf0502.jpg";
 },{}],"a340":[function(require,module,exports) {
 module.exports = "fcc-tribute-page.4fa4c75c.jpg";
 },{}],"iu3v":[function(require,module,exports) {
@@ -153,22 +155,21 @@ module.exports = "layout-9.cfe60b38.jpg";
 module.exports = "react-emoji-generator.3f5707b2.jpg";
 },{}],"I2ti":[function(require,module,exports) {
 module.exports = "ui-features-section.fbafd860.jpg";
+},{}],"LZNF":[function(require,module,exports) {
+module.exports = "ui-pricing-tables.33ad2fdd.jpg";
 },{}],"vNbd":[function(require,module,exports) {
 module.exports = "ui-product-card.12895cd3.jpg";
 },{}],"FCE7":[function(require,module,exports) {
 module.exports = "ui-tabs.6bc379ea.jpg";
-},{}],"LZNF":[function(require,module,exports) {
-module.exports = "ui-pricing-tables.33ad2fdd.jpg";
 },{}],"e4Wr":[function(require,module,exports) {
 module.exports = "ui-user-profile-card.49f2195a.jpg";
-},{}],"n1qK":[function(require,module,exports) {
-module.exports = "fcc-technical-documentation-page.16cf0502.jpg";
 },{}],"m7Bz":[function(require,module,exports) {
 module.exports = {
   "api-fetch-jobs": require("./api-fetch-jobs.jpg"),
   "fcc-celsius-to-fahrenheit-convertor": require("./fcc-celsius-to-fahrenheit-convertor.jpg"),
-  "fcc-survey-form": require("./fcc-survey-form.jpg"),
   "fcc-product-landing-page": require("./fcc-product-landing-page.jpg"),
+  "fcc-survey-form": require("./fcc-survey-form.jpg"),
+  "fcc-technical-documentation-page": require("./fcc-technical-documentation-page.jpg"),
   "fcc-tribute-page": require("./fcc-tribute-page.jpg"),
   "io-1": require("./io-1.jpg"),
   "io-2": require("./io-2.jpg"),
@@ -183,13 +184,12 @@ module.exports = {
   "layout-9": require("./layout-9.jpg"),
   "react-emoji-generator": require("./react-emoji-generator.jpg"),
   "ui-features-section": require("./ui-features-section.jpg"),
+  "ui-pricing-tables": require("./ui-pricing-tables.jpg"),
   "ui-product-card": require("./ui-product-card.jpg"),
   "ui-tabs": require("./ui-tabs.jpg"),
-  "ui-pricing-tables": require("./ui-pricing-tables.jpg"),
-  "ui-user-profile-card": require("./ui-user-profile-card.jpg"),
-  "fcc-technical-documentation-page": require("./fcc-technical-documentation-page.jpg")
+  "ui-user-profile-card": require("./ui-user-profile-card.jpg")
 };
-},{"./api-fetch-jobs.jpg":"tnYU","./fcc-celsius-to-fahrenheit-convertor.jpg":"YPXr","./fcc-survey-form.jpg":"eFgf","./fcc-product-landing-page.jpg":"MmsR","./fcc-tribute-page.jpg":"a340","./io-1.jpg":"iu3v","./io-2.jpg":"vE9J","./layout-1.jpg":"afdl","./layout-2.jpg":"AW2X","./layout-3.jpg":"GTvt","./layout-4.jpg":"eRGn","./layout-5.jpg":"yfGi","./layout-6.jpg":"suTb","./layout-7.jpg":"eO3I","./layout-8.jpg":"YMHG","./layout-9.jpg":"FkQ3","./react-emoji-generator.jpg":"obdG","./ui-features-section.jpg":"I2ti","./ui-product-card.jpg":"vNbd","./ui-tabs.jpg":"FCE7","./ui-pricing-tables.jpg":"LZNF","./ui-user-profile-card.jpg":"e4Wr","./fcc-technical-documentation-page.jpg":"n1qK"}],"QdeU":[function(require,module,exports) {
+},{"./api-fetch-jobs.jpg":"tnYU","./fcc-celsius-to-fahrenheit-convertor.jpg":"YPXr","./fcc-product-landing-page.jpg":"MmsR","./fcc-survey-form.jpg":"eFgf","./fcc-technical-documentation-page.jpg":"n1qK","./fcc-tribute-page.jpg":"a340","./io-1.jpg":"iu3v","./io-2.jpg":"vE9J","./layout-1.jpg":"afdl","./layout-2.jpg":"AW2X","./layout-3.jpg":"GTvt","./layout-4.jpg":"eRGn","./layout-5.jpg":"yfGi","./layout-6.jpg":"suTb","./layout-7.jpg":"eO3I","./layout-8.jpg":"YMHG","./layout-9.jpg":"FkQ3","./react-emoji-generator.jpg":"obdG","./ui-features-section.jpg":"I2ti","./ui-pricing-tables.jpg":"LZNF","./ui-product-card.jpg":"vNbd","./ui-tabs.jpg":"FCE7","./ui-user-profile-card.jpg":"e4Wr"}],"QdeU":[function(require,module,exports) {
 "use strict";
 
 var _ = _interopRequireDefault(require("../img/*.jpg"));
@@ -210,4 +210,4 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
   }
 })();
 },{"../img/*.jpg":"m7Bz"}]},{},["QdeU"], null)
-//# sourceMappingURL=app.b6fcd789.js.map
+//# sourceMappingURL=app.05e4f6d7.js.map
