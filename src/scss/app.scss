@@ -115,6 +115,7 @@ ul {
   .html,
   .css,
   .js,
+  .testing,
   .react {
     display: inline-block;
     font-size: 1rem;
@@ -137,6 +138,11 @@ ul {
 
   .js {
     color: #6e5773;
+  }
+
+  .testing {
+    color: #438a5e;
+    letter-spacing: 0.5px;
   }
 
   .react {
