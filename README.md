@@ -1,10 +1,16 @@
-# My Web Experiments
+# My Projects
 
-This is the main repository for all of my projects.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e7238fb5-9d1e-4b84-a9d6-3522aa909777/deploy-status)](https://app.netlify.com/sites/my-projects/deploys)
+
+A complete list with all of the projects that I've built so far while learning to code.
+
+[See the page here](https://my-projects.netlify.app/)
 
 ## freeCodeCamp Projects
 
-|  #  | Project Name                                                                                                                                                                                     | Live Demo on CodePen                                         |
+Projects that I've completed while going though the freeCodeCamp Curriculum.
+
+|  #  | Project Name                                                                                                                                                                                     | Live example                                                 |
 | :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1.  | [Build a Tribute Page](https://github.com/alexandracaulea/freecodecamp-projects/tree/master/Responsive-Web-Design-Projects/Build%20a%20Tribute%20Page)                                           | [Live Demo](https://codepen.io/alexandracaulea/full/MWwgbEv) |
 | 2.  | [Build a Survey Form](https://github.com/alexandracaulea/freecodecamp-projects/tree/master/Responsive-Web-Design-Projects/Build%20a%20Survey%20Form)                                             | [Live Demo](https://codepen.io/alexandracaulea/full/YzXdNbY) |
@@ -43,3 +49,5 @@ This is the main repository for all of my projects.
 | 7.  | [Layout 7](https://github.com/alexandracaulea/layouts/tree/master/7) | [Live Demo](https://codepen.io/alexandracaulea/full/JjoBwZL) |
 | 8.  | [Layout 8](https://github.com/alexandracaulea/layouts/tree/master/8) | [Live Demo](https://codepen.io/alexandracaulea/full/JjoavbN) |
 | 9.  | [Layout 9](https://github.com/alexandracaulea/layouts/tree/master/9) | [Live Demo](https://codepen.io/alexandracaulea/full/Exaddav) |
+
+![projects](all-projects.gif)
