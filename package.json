@@ -13,13 +13,13 @@
     "last 1 chrome versions"
   ],
   "devDependencies": {
-    "@babel/core": "^7.9.6",
-    "@babel/preset-env": "^7.9.6",
-    "autoprefixer": "^9.7.6",
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "autoprefixer": "^9.8.6",
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-clean-dist": "0.0.6",
     "parcel-plugin-lazy": "0.0.4",
-    "sass": "^1.26.3"
+    "sass": "^1.26.10"
   },
   "dependencies": {}
 }
