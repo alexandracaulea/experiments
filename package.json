@@ -1,13 +1,14 @@
 {
   "name": "all-projects",
   "version": "1.0.0",
-  "description": "",
+  "private": true,
+  "description": "A complete list with all of the projects that I've built so far while learning to code",
   "main": "app.js",
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html --public-url ./ --out-dir ./build"
   },
-  "author": "",
+  "author": "Alexandra Caulea <alexandra.caulea@gmail.com>",
   "license": "ISC",
   "browserslist": [
     "last 1 chrome versions"
