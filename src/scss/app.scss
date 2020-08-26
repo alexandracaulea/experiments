@@ -22,7 +22,7 @@ html {
 
 body {
   margin: 0;
-  font-family: "Lato", sans-serif;
+  font-family: 'Lato', sans-serif;
   background-color: #f7fbfb;
   line-height: 1.65;
   color: var(--clr-dark);
@@ -104,7 +104,7 @@ header {
   font-weight: 400;
 
   &::after {
-    content: "";
+    content: '';
     position: absolute;
     display: block;
     height: 5px;
@@ -168,7 +168,8 @@ header {
   .css,
   .js,
   .testing,
-  .react {
+  .react,
+  .angular {
     display: inline-block;
     font-size: 1rem;
     text-transform: uppercase;
@@ -199,6 +200,10 @@ header {
 
   .react {
     color: #bd245f;
+  }
+
+  .angular {
+    color: #d00606;
   }
 }
 
