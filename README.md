@@ -6,7 +6,30 @@ A complete list with all of the projects that I've built so far while learning t
 
 [See the page here](https://my-projects.netlify.app/)
 
-## 01. freeCodeCamp Projects
+## 01. Projects built using a Frontend Framework / Library
+
+|  #  | Project Name        | Live example                           | Code on GitHub                                                 |
+| :-: | ------------------- | -------------------------------------- | -------------------------------------------------------------- |
+| 1.  | Image Cards Project | [Demo](https://img-cards.netlify.app/) | [Check the code](https://github.com/alexandracaulea/img-cards) |
+
+<br />
+
+## 02. Working with APIs
+
+I've wanted to learn how to fetch data from an API and display the data so I've built the _"Fetching and Displaying Jobs"_ project. For the API I've used the [GitHub Jobs API](https://jobs.github.com/api) and to fetch data I've used [axios](https://github.com/axios/axios).
+
+The _"Sign up Landing Page"_ and _"Accept Terms and Conditions Component"_ projects were built to practice working with the Intersection Observer API.
+
+|  #  | Project Name                          | Live example                                            | Code on GitHub                                                                                                                   |
+| :-: | ------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1.  | Working with Google Maps API          | [Demo](https://pensive-allen-40f285.netlify.app/)       | [Check the code](https://github.com/alexandracaulea/coloring-of-sectors)                                                         |
+| 2.  | Fetching and Displaying Jobs          | [Demo](https://codepen.io/alexandracaulea/full/VwLBGOj) | [Check the code](https://github.com/alexandracaulea/working-with-apis/tree/master/Fetching%20and%20Displaying%20Jobs)            |
+| 3.  | Sign up Landing Page                  | [Demo](https://codepen.io/alexandracaulea/full/mdygyxV) | [Check the code](https://github.com/alexandracaulea/working-with-apis/tree/master/Sign%20up%20Landing%20Page)                    |
+| 4.  | Accept Terms and Conditions Component | [Demo](https://codepen.io/alexandracaulea/full/VwYOPKM) | [Check the code](https://github.com/alexandracaulea/working-with-apis/tree/master/Accept%20Terms%20and%20Conditions%20Component) |
+
+<br />
+
+## 03. freeCodeCamp Projects
 
 Projects that I've completed while going though the freeCodeCamp Curriculum.
 
@@ -28,19 +51,9 @@ Projects that I've completed while going though the freeCodeCamp Curriculum.
 | 2.  | Palindrome Checker              | [Demo](https://alexandracaulea.github.io/palindrome-checker/) | [Check the code](https://github.com/alexandracaulea/palindrome-checker)                                                                                                         |
 | 3.  | Roman Numeral Converter         | [Demo](https://alexandracaulea.github.io/roman-converter/)    | [Check the code](https://github.com/alexandracaulea/roman-converter)                                                                                                            |
 
-## 02. Working with APIs
+<br />
 
-I've wanted to learn how to fetch data from an API and display the data so I've built the _"Fetching and Displaying Jobs"_ project. For the API I've used the [GitHub Jobs API](https://jobs.github.com/api) and to fetch data I've used [axios](https://github.com/axios/axios).
-
-The _"Sign up Landing Page"_ and _"Accept Terms and Conditions Component"_ projects were built to practice working with the Intersection Observer API.
-
-|  #  | Project Name                          | Live example                                            | Code on GitHub                                                                                                                   |
-| :-: | ------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 1.  | Fetching and Displaying Jobs          | [Demo](https://codepen.io/alexandracaulea/full/VwLBGOj) | [Check the code](https://github.com/alexandracaulea/working-with-apis/tree/master/Fetching%20and%20Displaying%20Jobs)            |
-| 2.  | Sign up Landing Page                  | [Demo](https://codepen.io/alexandracaulea/full/mdygyxV) | [Check the code](https://github.com/alexandracaulea/working-with-apis/tree/master/Sign%20up%20Landing%20Page)                    |
-| 3.  | Accept Terms and Conditions Component | [Demo](https://codepen.io/alexandracaulea/full/VwYOPKM) | [Check the code](https://github.com/alexandracaulea/working-with-apis/tree/master/Accept%20Terms%20and%20Conditions%20Component) |
-
-## 03. UI Elements
+## 04. UI Elements
 
 Each project was built to help me get better at working with HTML, CSS and JavaScript.
 
@@ -52,7 +65,9 @@ Each project was built to help me get better at working with HTML, CSS and JavaS
 | 4.  | Pricing Tables    | [Demo](https://codepen.io/alexandracaulea/full/xxGVPYd) | [Check the code](https://github.com/alexandracaulea/ui-elements/tree/master/Pricing%20Tables)      |
 | 5.  | Four Card Layout  | [Demo](https://codepen.io/alexandracaulea/full/dyoOJKd) | [Check the code](https://github.com/alexandracaulea/ui-elements/tree/master/Four%20Card%20Layout)  |
 
-## 04. CSS Grid
+<br />
+
+## 05. CSS Grid
 
 My initial projects that I've built while learning to code. I've wanted mainly to start using CSS Grid. I must warn you, there are not looking amazing.
 
@@ -67,6 +82,9 @@ My initial projects that I've built while learning to code. I've wanted mainly 
 | 7.  | Layout 7     | [Demo](https://codepen.io/alexandracaulea/full/JjoBwZL) | [Check the code](https://github.com/alexandracaulea/layouts/tree/master/7) |
 | 8.  | Layout 8     | [Demo](https://codepen.io/alexandracaulea/full/JjoavbN) | [Check the code](https://github.com/alexandracaulea/layouts/tree/master/8) |
 | 9.  | Layout 9     | [Demo](https://codepen.io/alexandracaulea/full/Exaddav) | [Check the code](https://github.com/alexandracaulea/layouts/tree/master/9) |
+
+<br />
+<br />
 
 [See the entire page](https://my-projects.netlify.app/)
 
