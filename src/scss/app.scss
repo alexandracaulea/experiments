@@ -100,7 +100,7 @@ header {
 }
 
 .experiments__section {
-  margin: 2rem 0;
+  margin: 5rem 0;
 }
 
 .experiments__section__title {
@@ -124,6 +124,10 @@ header {
       var(--clr-hotpink) 100%
     );
   }
+}
+
+.experiments__info {
+  color: #727272;
 }
 
 .experiments__list {
