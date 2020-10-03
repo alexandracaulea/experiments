@@ -5,7 +5,7 @@
 }
 
 :root {
-  --image-height: 350px;
+  --image-height: 250px;
   --clr-white: #fff;
   --clr-light: #f6f6f6;
   --clr-light-grey: #e2e2e2;
@@ -32,6 +32,13 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+
+code {
+  padding: 1px;
+  font-size: 1rem;
+  background-color: #cffffe;
+  border: 1px solid #b6dfde;
 }
 
 .github-corner {
@@ -111,7 +118,11 @@ header {
     width: 100%;
     bottom: -1px;
     background-color: var(--clr-yellow);
-    background-image: linear-gradient(90deg, var(--clr-yellow) 0%, var(--clr-hotpink) 100%);
+    background-image: linear-gradient(
+      90deg,
+      var(--clr-yellow) 0%,
+      var(--clr-hotpink) 100%
+    );
   }
 }
 
@@ -119,15 +130,19 @@ header {
   margin: 3rem 0;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  grid-auto-rows: 1fr;
   grid-gap: 1.5rem;
 }
 
 .experiments__list__item {
   overflow: hidden;
+  display: flex;
+  flex-direction: column;
   background-color: var(--clr-white);
   border: 1px solid var(--clr-light-grey);
   border-radius: 4px;
-  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.1), 0 2px 4px 0 rgba(14, 30, 37, 0.12);
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.1),
+    0 2px 4px 0 rgba(14, 30, 37, 0.12);
   transition: box-shadow 0.3s ease-out;
 
   &--single {
@@ -149,19 +164,30 @@ header {
       height: var(--image-height);
     }
   }
+
+  a {
+    transform: opacity 0.2s ease-in-out;
+    &:hover {
+      opacity: 0.9;
+    }
+  }
 }
 
 .experiment__name {
-  line-height: 1.4;
-  font-size: 1.3em;
-  margin: 1.5rem 0;
+  line-height: 1.3;
+  font-size: 1.7em;
 }
 
 .item-info {
   border-top: 1px solid var(--clr-light-grey);
-  padding: 1rem;
+  padding: 2em;
+  flex: 1;
   display: flex;
   flex-direction: column;
+
+  p {
+    margin-top: 0;
+  }
 
   .figma,
   .html,
