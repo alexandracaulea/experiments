@@ -5,6 +5,7 @@
   "description": "A complete list with all of the projects that I've built so far while learning to code",
   "main": "app.js",
   "scripts": {
+    "preinstall": "npx npm-force-resolutions",
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html --public-url ./ --out-dir ./build"
   },
@@ -22,5 +23,8 @@
     "parcel-plugin-lazy": "0.0.4",
     "sass": "^1.26.10"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "resolutions": {
+    "node-forge": "0.10.0"
+  }
 }
